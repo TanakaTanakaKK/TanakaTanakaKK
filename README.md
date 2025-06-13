@@ -14,7 +14,7 @@
 
 <table align="center">
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### **Backend**
 <img src="https://skillicons.dev/icons?i=php,laravel" />
@@ -26,7 +26,7 @@
 <img src="https://skillicons.dev/icons?i=html,bootstrap" />
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
   
 ### **OS**
 <img src="https://skillicons.dev/icons?i=linux" />
@@ -37,7 +37,7 @@
 ### **Database**
 <img src="https://skillicons.dev/icons?i=mysql,redis" />
 </td>
-<td width="50%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
   
 ### **Languages**
 <img src="https://skillicons.dev/icons?i=java,php,python" />
