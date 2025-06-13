@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=AMAGASAKI%20NO%20OJISAN" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+User+%F0%9F%91%8B;Flutter+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7C7&width=435&lines=Laravel+Developer;%EF%BD%BA%EF%BD%BA%EF%BD%BA%EF%BD%BA%EF%BD%BA...%EF%BD%BA%EF%BD%B9%EF%BD%AA%EF%BD%B4%EF%BD%B4%EF%BD%B4!!!!%F0%9F%90%93;%E3%81%AA%E3%82%93%E3%81%A7%E7%9F%A5%E3%81%A3%E3%81%A6%E3%82%93%E3%81%AE%EF%BC%9F+By%E7%94%B0%E4%B8%AD%E5%9C%AD" alt="Typing SVG" />
 </div>
 
 ## 🌟 **About Me**
