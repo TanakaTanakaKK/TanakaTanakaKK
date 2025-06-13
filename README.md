@@ -10,68 +10,31 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7C7&width=435&lines=Laravel+Developer;%EF%BD%BA%EF%BD%BA%EF%BD%BA%EF%BD%BA%EF%BD%BA...%EF%BD%BA%EF%BD%B9%EF%BD%AA%EF%BD%B4%EF%BD%B4%EF%BD%B4!!!!%F0%9F%90%93;%E3%81%AA%E3%82%93%E3%81%A7%E7%9F%A5%E3%81%A3%E3%81%A6%E3%82%93%E3%81%AE%EF%BC%9F+By%E7%94%B0%E4%B8%AD%E5%9C%AD" alt="Typing SVG" />
 </div>
 
-## 🌟 **About Me**
-
-<div align="center">
-
-<table>
-<tr>
-<td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Flutter" />
-<br><strong>Flutter</strong>
-</td>
-<td width="400" align="left">
-
-### 👋 **Hi, I'm User!**
-🚀 **Flutter Developer** passionate about mobile development  
-
-🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
-☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating amazing user experiences  
-
-</td>
-</tr>
-</table>
-
-</div>
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
-</div>
-
 ## 🛠️ **Tech Stack**
 
 <table align="center">
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 📱  **Mobile Development**
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+### **Backend**
+<img src="https://skillicons.dev/icons?i=php,laravel" />
 
-### ☁️  **Backend as a Service (BaaS)**
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
+### **Frontend**
+<img src="https://skillicons.dev/icons?i=js,jquery" />
 
-### 🔧  **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
-
+### **Design**
+<img src="https://skillicons.dev/icons?i=html,bootstrap" />
 </td>
 <td width="50%" align="center" valign="top">
 
 ### 🗄️  **Database**
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,redis" />
 
-### 🎨  **Design**
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
+### **Languages**
+<img src="https://skillicons.dev/icons?i=java,php,python" />
 
-### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
+### 🔧  **Development Tools**
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker" />
 
 </td>
 </tr>
